@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>larry</sys_created_by>
+        <sys_created_on>2023-06-16 09:26:24</sys_created_on>
+        <sys_id>a5d9a01c87abe910af26fd56dabb3528</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_kudos_kudos.x_snc_kudos.admin</sys_name>
+        <sys_package display_value="Kudos" source="x_snc_kudos">bc69e4d887abe910af26fd56dabb35eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kudos">bc69e4d887abe910af26fd56dabb35eb</sys_scope>
+        <sys_security_acl display_value="x_snc_kudos_kudos">add9a01c87abe910af26fd56dabb3525</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a5d9a01c87abe910af26fd56dabb3528</sys_update_name>
+        <sys_updated_by>larry</sys_updated_by>
+        <sys_updated_on>2023-06-16 09:26:24</sys_updated_on>
+        <sys_user_role display_value="x_snc_kudos.admin" name="x_snc_kudos.admin">e16968d887abe910af26fd56dabb351a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

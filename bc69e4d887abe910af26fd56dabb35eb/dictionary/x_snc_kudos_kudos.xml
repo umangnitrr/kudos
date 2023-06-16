@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0bc9ecd887abe910af26fd56dabb35fe" label="kudos" max_length="40" name="x_snc_kudos_kudos" type="collection">
+        <element label="Feedback" max_length="4000" name="feedback" type="string"/>
+        <element label="Kudos to" max_length="32" name="kudos_to" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="kudos_to"/>
+        </index>
+    </element>
+</database>

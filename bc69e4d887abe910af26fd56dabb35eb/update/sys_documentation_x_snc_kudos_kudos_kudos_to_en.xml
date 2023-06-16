@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="kudos_to" label="Kudos to" language="en" table="x_snc_kudos_kudos">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>kudos_to</element>
+            <help/>
+            <hint/>
+            <label>Kudos to</label>
+            <language>en</language>
+            <name>x_snc_kudos_kudos</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>larry</sys_created_by>
+            <sys_created_on>2023-06-16 09:27:26</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Kudos to</sys_name>
+            <sys_package display_value="Kudos" source="x_snc_kudos">bc69e4d887abe910af26fd56dabb35eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kudos">bc69e4d887abe910af26fd56dabb35eb</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_kudos_kudos_kudos_to_en</sys_update_name>
+            <sys_updated_by>larry</sys_updated_by>
+            <sys_updated_on>2023-06-16 09:27:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
